@@ -11,9 +11,9 @@
 .news {
     border: 5px solid black;
     border-radius: 10px;
-    padding: 10px;
+    padding: 40px;
     font-size: 15px;
-    color: red;
+    color: white;
+    background-image: url('../public/bag.jpg');
     margin: 10px;
-    background-color: aquamarine;
 }
