@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Yuji+Mai&display=swap');
+
+* {
+    font-family: "Yuji Mai", serif;
+}
+
+#title {
+    color: brown;
+}
+
+.news {
+    border: 5px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 15px;
+    color: red;
+    margin: 10px;
+    background-color: aquamarine;
+}
